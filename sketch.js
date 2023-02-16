@@ -1,0 +1,1 @@
+console.log("isso é algo que eu queira que eu fale ou alguma coisa")
